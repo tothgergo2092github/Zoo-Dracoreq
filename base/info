@@ -1,0 +1,7 @@
+acronyms.tex - Mozaikszavak, rövidítések
+history.tex - Módosítási történet
+javainputstyle.tex - Ne módosítsd, ha nem muszáj!
+metadata.tex - Előlap
+sources.bib - Ide lehet felvenni referenciákat a megfelelő formátumban 
+  - Google Scholar képes a megfelelő formátumban konvertálni cikkeket
+sources.tex - Referenciák (automatikusan generálódik, ne módosítsd)
